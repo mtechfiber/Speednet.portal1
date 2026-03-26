@@ -1,1 +1,0 @@
-# Speednet.portal1
